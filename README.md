@@ -23,7 +23,7 @@
 
 - 😃 Pronouns : **Clear-Sighted**, **Innovative**, and **Classical .**
 
-- ⚡ Fun fact : **When I type, I Sometimes Like To Use Three Dots…Instead Of A Comma. It Just Feels More Me.**
+- ⚡ Fun fact : **Whenever I Type Something Informally, I Usually Like To Use Multiple Dots.....Instead Of A Comma. It Just Feels More Me.**
 
 
 
