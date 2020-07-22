@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepesh Garg 😃! <img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/spiderman.png" width="100"></h1>   
+<h1 align="left">Hi 👋, I'm Deepesh Garg 😃! <img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/spiderman.png" width="100"></h1>   
 
 
 ![About Me](https://github.com/deepeshgarg09/deepeshgarg09/raw/master/intro.gif)
