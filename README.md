@@ -39,9 +39,9 @@
 
 
 <p align="center">
-<a href="https://twitter.com/deepesh_garg__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepesh_garg__" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/deepeshgarg09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepeshgarg09" height="40" width="40" /></a>
-<a href="https://fb.com/iamdeepeshgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamdeepeshgarg" height="40" width="40" /></a>
-<a href="https://instagram.com/deepesh_garg_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deepesh_garg_" height="40" width="40" /></a>
+<a href="https://twitter.com/deepesh_garg__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepesh_garg__" height="34" width="34" /></a>
+  <a href="https://linkedin.com/in/deepeshgarg09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepeshgarg09" height="34" width="34" /></a>
+<a href="https://fb.com/iamdeepeshgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamdeepeshgarg" height="34" width="34" /></a>
+<a href="https://instagram.com/deepesh_garg_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="deepesh_garg_" height="34" width="34" /></a>
 </p>
 
