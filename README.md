@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepesh Garg 😃</h1>         ![About Me](spiderman.png?raw=true width="40" height="80")   
+<h1 align="center">Hi 👋, I'm Deepesh Garg 😃</h1>   
 
 
 ![About Me](intro.gif?raw=true)
@@ -23,7 +23,7 @@
 
 
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> <img src = "tensorflow.png" width="20" height="20"/><img src = "pytorch.png" width="20" height="20"/><img src = "opencv.png" width="20" height="20"/><img src = "gitlogo.png" width="20" height="20"/></p>
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></p><img src = "tensorflow.png" width="60" height="60"/><img src = "pytorch.png" width="60" height="60"/><img src = "opencv.png" width="60" height="60"/><img src = "gitlogo.png" width="60" height="60"/><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> </p>
 
 
 <p align="center">
