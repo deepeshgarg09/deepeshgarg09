@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Deepesh Garg 😃</h1>          ![About Me](spiderman.png?raw=true)   
+<h1 align="center">Hi 👋, I'm Deepesh Garg 😃</h1>         ![About Me](img src = 'spiderman.png" width="40" height="80")   
 
 
 ![About Me](intro.gif?raw=true)
