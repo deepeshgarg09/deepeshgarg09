@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Deepesh Garg 😃! <img src="https://github.com/deepeshgarg09/deepeshgarg09/rae/master/spiderman.png" width="20"></h1>   
+<h1 align="center">Hi 👋, I'm Deepesh Garg 😃! <img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/spiderman.png" width="20"></h1>   
 
 
 ![About Me](https://github.com/deepeshgarg09/deepeshgarg09/raw/master/intro.gif)
 
+
 <h3 align="center">I am a Pre-Final Year Undergraduate student in Computer Science and Engineering from Guru Ghasidas Vishwavidyalaya, Bilaspur. From very early on in my life, I started to fall in love with technology .😍 This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I am a Programmer ! You have finally discovered my Github profile. Please feel free to clone projects and raise issues if you think something could be better. Happy Coding! 😊</h3>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgarg09" alt="deepeshgarg09" /> </p>
+
+
 
 
 - 🔭 I’m **A Machine Learning & Open Source Enthusiast .**
@@ -20,6 +24,7 @@
 - 😃 Pronouns : **Clear-Sighted**, **Innovative**, and **Classical .**
 
 - ⚡ Fun fact : **When I type, I Sometimes Like To Use Three Dots…Instead Of A Comma. It Just Feels More Me.**
+
 
 
 ## Tech Stacks :
