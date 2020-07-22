@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepesh Garg 😃</h1>   
+<h1 align="center">Hi 👋, I'm Deepesh Garg 😃! <img src="https://github.com/deepeshgarg09/deepeshgarg09/rae/master/spiderman.png" width="20"></h1>   
 
 
 ![About Me](https://github.com/deepeshgarg09/deepeshgarg09/raw/master/intro.gif)
@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgarg09" alt="deepeshgarg09" /> </p>
 
 
-- 🔭 I’m **An Machine Learning & Open Source Enthusiast .**
+- 🔭 I’m **A Machine Learning & Open Source Enthusiast .**
 
 - 👯 I’m Looking To Collaborate On **Open Source Machine Learning, Deep Learning, and Computer Vision Projects .**
 
@@ -17,10 +17,12 @@
 
 - 💬 Ask Me About Any Tech Stack In **Machine Learning** . I Will Help You As Much As I Can .
 
-- 😃 Pronouns : **Clear-Sighted**, **Innovative**, and **Classical**
+- 😃 Pronouns : **Clear-Sighted**, **Innovative**, and **Classical .**
 
 - ⚡ Fun fact : **When I type, I Sometimes Like To Use Three Dots…Instead Of A Comma. It Just Feels More Me.**
 
+
+## Tech Stacks :
 
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/><img src = "tensorflow.png" width="60" height="60"/><img src = "pytorch.png" width="60" height="60"/><img src = "opencv.png" width="60" height="60"/><p align="center"></p><img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> </p>
