@@ -4,7 +4,7 @@
 ![About Me](https://github.com/deepeshgarg09/deepeshgarg09/raw/master/intro.gif)
 
 
-## About Me
+## About Me :
 
 
 <h3>I am a Pre-Final Year Undergraduate student in Computer Science and Engineering from Guru Ghasidas Vishwavidyalaya, Bilaspur. From very early on in my life, I started to fall in love with technology .😍 This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I am a Programmer ! You have finally discovered my Github profile. Please feel free to clone projects and raise issues if you think something could be better. Happy Coding! 😊</h3>
@@ -33,7 +33,7 @@
 ## Tech Stacks :
 
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/><img src = "tensorflow.png" width="60" height="60"/><img src = "pytorch.png" width="60" height="60"/><img src = "opencv.png" width="60" height="60"/><img src = "keras1.png" width="60" height="60"/><img src = "git.png" width="60" height="60"/>
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/><img src = "tensorflow.png" width="60" height="60"/><img src = "pytorch.png" width="60" height="60"/><img src = "opencv.png" width="60" height="60"/><img src = "git.png" width="60" height="60"/>
 
 
 <p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> </p>
