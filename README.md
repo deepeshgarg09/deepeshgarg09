@@ -31,7 +31,9 @@
 
 
 ## Tech Stacks :
-<code><img height="60" width="60" src="https://raw.githubusercontent.com/deepeshgarg09/deepeshgarg09/master/images/C.png"></code><code><img height="60" width="60" src="https://raw.githubusercontent.com/deepeshgarg09/deepeshgarg09/master/images/c++.png"></code><code><img height="60" width="60" src="https://raw.githubusercontent.com/deepeshgarg09/deepeshgarg09/master/images/html.png"></code>
+
+
+<img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/tensorflow.png" height="60" width="60">
 
 <p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> </p>
 
