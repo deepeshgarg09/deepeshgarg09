@@ -31,8 +31,7 @@
 
 
 ## Tech Stacks :
-<img src = "C.png" width="60" height="60"/><img src = "c++.png" width="60" height="60"/><img src = "html.png" width="60" height="60"/><img src = "css.png" width="60" height="60"/><img src = "mysql.png" width="60" height="60"/><img src = "python.png" width="60" height="60"/><img src = "linux.png" width="60" height="60"/><img src = "tensorflow.png" width="60" height="60"/><img src = "pytorch.png" width="60" height="60"/><img src = "opencv.png" width="60" height="60"/><img src = "git.png" width="60" height="60"/>
-
+<code><img height="60" width="60" src="https://raw.githubusercontent.com/deepeshgarg09/deepeshgarg09/master/images/C.png"></code><code><img height="60" width="60" src="https://raw.githubusercontent.com/deepeshgarg09/deepeshgarg09/master/images/c++.png"></code><code><img height="60" width="60" src="https://raw.githubusercontent.com/deepeshgarg09/deepeshgarg09/master/images/html.png"></code>
 
 <p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> </p>
 
