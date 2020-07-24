@@ -33,7 +33,7 @@
 ## Tech Stacks :
 
 
-<img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/python.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/openccv.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/pytorch.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/tensorflow.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/mysql.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/git.png" height="60" width="60">
+<img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/python.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/opencv.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/pytorch.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/tensorflow.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/mysql.png" height="60" width="60"><img src="https://github.com/deepeshgarg09/deepeshgarg09/raw/master/git.png" height="60" width="60">
 
 <p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> </p>
 
