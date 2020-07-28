@@ -37,7 +37,7 @@
 
 <p align="left"></p><img src="https://github-readme-stats.vercel.app/api?username=deepeshgarg09&show_icons=true" alt="deepeshgarg09" /> </p>
 
-<h1 align="center">Connect With Me 🤝 :</h1>
+<h1 align="center">Let's Connect Together 🤝 :</h1>
 
 
 <p align="center">
