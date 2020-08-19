@@ -20,7 +20,7 @@
 
 - 👯 I’m Looking To Collaborate On **Open Source Machine Learning, Deep Learning, and Computer Vision Projects .**
 
-- 💻 I’m Currently Working On Some Of Cool Projects Based On **Computer Vision And Deep Learning .**
+- 💻 I’m Currently Working On Some Of Cool Projects Based On **Computer Vision, Deep Learning And NLP.**
 
 - 💬 Ask Me About Any Tech Stack In **Machine Learning** . I Will Help You As Much As I Can .
 
